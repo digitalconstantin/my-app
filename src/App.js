@@ -7,10 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        {/* <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Constantin's Hello World Application</p>
+        <p>Constantin's Hello World Application</p>*/}
         <p>Oare s-a schimbat ceva?</p>
         <a
           className="App-link"
