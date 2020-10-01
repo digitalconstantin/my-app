@@ -11,15 +11,15 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>Constantin's Hello World Application</p>*/}
-        <p>Oare s-a schimbat ceva?</p>
-        <a
+        <p>Ce zici ca faci Grama ??</p>
+        {/*<a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a>*/}
       </header>
     </div>
   );
