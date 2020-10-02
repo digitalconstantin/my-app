@@ -9,9 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         {/* <p>
           Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>Constantin's Hello World Application</p>*/}
-        <p>Ce zici ca faci Grama ??</p>
+        </p>*/}
+        <p>Hello World</p>
+        <p>Let's build something!</p>
         {/*<a
           className="App-link"
           href="https://reactjs.org"
